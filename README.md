@@ -24,6 +24,11 @@ $$
 
 where weight is in kg, height is in cm, and age is in years.
 
-If you were 22 years old, 175cm tall, and 72kg, your basic metabolic energy would be $\text{BMR} = 10\times175 + 6.25\times 72 - 5\times 22 + 5= 1708.75 \approx 1709\text{CAL}$. If I want to burn 500CAL each day by exercise, the intake should be no more than $1709-500=1209\text{CAL}$. Let's set $\text{Carbohydrate}: \text{Protein}: \text{Fat} = 5:3:2$, then the intake should be no more than 151.1g for carbohydrate, 90.7g for protein, and 26.9g for fat.
+If you were 22 years old, 175cm tall, and 72kg, your basic metabolic energy would be 
+$$
+\text{BMR} = 10\times175 + 6.25\times 72 - 5\times 22 + 5= 1708.75 \approx 1709\text{CAL}
+$$
+
+If I want to burn 500CAL each day by exercise, the intake should be no more than $1709-500=1209\text{CAL}$. Let's set $\text{Carbohydrate}: \text{Protein}: \text{Fat} = 5:3:2$, then the intake should be no more than 151.1g for carbohydrate, 90.7g for protein, and 26.9g for fat.
 
 [1] Hopps, E., and G. Caimi. "Exercise in obesity management." The Journal of sports medicine and physical fitness 51.2 (2011): 275-282.
