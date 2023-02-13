@@ -22,9 +22,8 @@ $$
 \text{BMR} = 10\times \text{weight} + 6.25\times \text{height} - 5\times \text{age} -161
 $$
 
-where weight is in kg, height is in cm, and age is in years.
+where weight is in kg, height is in cm, and age is in years. If you were 22 years old, 175cm tall, and 72kg, your basic metabolic energy would be
 
-If you were 22 years old, 175cm tall, and 72kg, your basic metabolic energy would be 
 $$
 \text{BMR} = 10\times175 + 6.25\times 72 - 5\times 22 + 5= 1708.75 \approx 1709\text{CAL}
 $$
